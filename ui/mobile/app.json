@@ -1,7 +1,7 @@
 {
     "expo": {
-        "name": "Bee+",
-        "slug": "beeplus",
+        "name": "TESTapp",
+        "slug": "TESTapp",
         "platforms": [
             "ios",
             "android",
